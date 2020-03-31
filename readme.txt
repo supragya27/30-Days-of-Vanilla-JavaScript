@@ -1,0 +1,1 @@
+This repository contains 30 mini vanilla JS projects
