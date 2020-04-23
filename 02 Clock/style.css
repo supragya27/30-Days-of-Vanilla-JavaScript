@@ -60,6 +60,7 @@ body {
 
 .twelve {
   margin-top: 0;
+  color: aliceblue;
 }
 
 .three {
@@ -67,14 +68,17 @@ body {
   margin-right: 0;
   margin-left: 95%;
   margin-top: 33%;
+  color: aliceblue;
 }
 
 .six {
   margin-bottom: 0;
   margin-top: 80%;
+  color: aliceblue;
 }
 
 .nine {
   position: absolute;
   margin-top: -59.5%;
+  color: aliceblue;
 }
